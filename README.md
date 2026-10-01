@@ -9,3 +9,5 @@
 2. Veja `docs/limites_e_sigilo.md` para as regras de privacidade.
 3. Siga para `prompts/` e `evidencias/` para acompanhar o processamento da IA.
 4. O resultado final está em `entrega/orientacao_inicial.md`.
+
+Link: https://github.com/estherepoleza-del/caso-simile-ia.git
