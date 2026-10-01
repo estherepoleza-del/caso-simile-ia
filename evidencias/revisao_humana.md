@@ -1,0 +1,3 @@
+**Decisão Humana sobre os Achados da Auditoria:**
+*   **Achado 1 (Sem alucinações):** Validado. Nenhuma alteração legal estrutural necessária.
+*   **Achado 2 (Tom e riscos):** Validado. Vou **CORRIGIR** a entrega final para adicionar um aviso expresso sobre a provável tese de defesa da empresa e moderar as expectativas do cliente. Também aplicarei a correção apontada em `verificacao.md` para incluir a medida de urgência sobre a exclusão da voz.

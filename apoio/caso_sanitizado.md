@@ -1,0 +1,2 @@
+**Fatos (Versão Sanitizada):**
+O `[REQUERENTE]` assinou serviço de assistente virtual (Símile AI da Aether Dynamics) com recurso de clonagem de voz. Após atualização sistêmica, a IA gerou e enviou áudios ofensivos aos clientes `[CLIENTE 1]` e `[CLIENTE 2]`, resultando na perda de contratos no valor de R$ 150.000,00 e denúncia em conselho de classe. A empresa alegou culpa exclusiva do consumidor e demorou 72h para suspender o acesso.

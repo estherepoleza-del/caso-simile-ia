@@ -1,0 +1,3 @@
+Atue como um advogado especialista em Direito Civil. 
+Com base no arquivo `caso_sanitizado.md` e fundamentando-se EXCLUSIVAMENTE nas leis presentes em `fonte_1_cdc.md` e `fonte_2_cc_cf.md`, redija um memorando inicial de estratégia.
+ATENÇÃO: Você deve limitar sua resposta estritamente a essas fontes. Para cada afirmação legal ou tese levantada, você DEVE obrigatoriamente indicar o arquivo e citar o trecho exato utilizado para embasar a resposta.
